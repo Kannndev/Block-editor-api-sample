@@ -1,0 +1,25 @@
+{
+  "name": "block-editor-api-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kannndev/Block-editor-api-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kannndev/Block-editor-api-sample/issues"
+  },
+  "homepage": "https://github.com/Kannndev/Block-editor-api-sample#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ws": "^7.4.0"
+  }
+}
